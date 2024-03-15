@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="CLI Arguments" tests="2" assertions="2" errors="0" failures="0" skipped="0" time="0.003696">
+    <testsuite name="CalculatorTest" file="C:\Users\Prakash Jha\IdeaProjects\tests\CalculatorTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.003563">
+      <testcase name="testCalculator" file="C:\Users\Prakash Jha\IdeaProjects\tests\CalculatorTest.php" line="6" class="CalculatorTest" classname="CalculatorTest" assertions="1" time="0.003563"/>
+    </testsuite>
+    <testsuite name="CalculatorTest" file="C:\Users\Prakash Jha\IdeaProjects\tests\CalculatorTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.000133">
+      <testcase name="testCalculator" file="C:\Users\Prakash Jha\IdeaProjects\tests\CalculatorTest.php" line="6" class="CalculatorTest" classname="CalculatorTest" assertions="1" time="0.000133"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

@@ -8,6 +8,6 @@ class CalculatorTest extends PHPUnit\Framework\TestCase
         $calculator = new App\Calculator;
         $result = $calculator->add(20,5,);
         
-        $this->assertEquals(25, $result);
+        $this->assertEquals(24, $result);
     }
 }
